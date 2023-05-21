@@ -1,7 +1,7 @@
 # pteropy
 適用於Pterodactyl api的python庫，由TommcyOWO另外更新
 
-##原庫:https://github.com/HansHans135/pteropy
+## 原庫:https://github.com/HansHans135/pteropy
 
 # 安裝
 ```
