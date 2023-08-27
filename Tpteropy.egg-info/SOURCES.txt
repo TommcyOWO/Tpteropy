@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Tpteropy/__init__.py
+Tpteropy.egg-info/PKG-INFO
+Tpteropy.egg-info/SOURCES.txt
+Tpteropy.egg-info/dependency_links.txt
+Tpteropy.egg-info/top_level.txt

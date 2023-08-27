@@ -1,1 +1,1 @@
-from pteropy import *
+from Tpteropy import *

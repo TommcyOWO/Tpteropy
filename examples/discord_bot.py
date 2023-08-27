@@ -1,10 +1,10 @@
-import pteropy
+import Tpteropy
 import discord
 #請使用pycord
 import json
 from discord.ext import commands
 from discord import option
-from pteropy import Pterodactyl_Client
+from Tpteropy import Pterodactyl_Client
 
 base_url = "https://面板網址"
 bot=discord.Bot()
