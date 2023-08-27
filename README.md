@@ -1,4 +1,4 @@
-# pteropy
+# Tpteropy
 適用於Pterodactyl api的python庫，由TommcyOWO另外更新
 
 ## 原庫:https://github.com/HansHans135/pteropy
@@ -16,7 +16,7 @@ key創建位置:/admin/api
 run.py
 
 ```py
-from pteropy import Pterodactyl_Application
+from Tpteropy import Pterodactyl_Application
 #導入套件
 
 base_url = "https://面板網址"
@@ -33,7 +33,7 @@ ptero = Pterodactyl_Application(base_url, api_key)
 run.py
 
 ```py
-from pteropy import Pterodactyl_Application
+from Tpteropy import Pterodactyl_Application
 base_url = "https://面板網址"
 api_key = "api key"
 ptero = Pterodactyl_Application(base_url, api_key)
@@ -54,7 +54,7 @@ key創建位置:/account/api
 run.py
 
 ```py
-from pteropy import Pterodactyl_Client
+from Tpteropy import Pterodactyl_Client
 #導入套件
 
 base_url = "https://面板網址"
@@ -71,7 +71,7 @@ ptero = Pterodactyl_Client(base_url, api_key)
 run.py
 
 ```py
-from pteropy import Pterodactyl_Client
+from Tpteropy import Pterodactyl_Client
 base_url = "https://面板網址"
 api_key = "api key"
 ptero = Pterodactyl_Client(base_url, api_key)
