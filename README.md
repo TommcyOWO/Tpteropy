@@ -5,7 +5,7 @@
 
 # 安裝
 ```
-pip install pteropy
+pip install Tpteropy
 ```
 
 
