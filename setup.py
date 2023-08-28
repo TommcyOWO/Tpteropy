@@ -4,7 +4,7 @@ with open("README.md", "r",encoding="utf-8") as f:
     
 setuptools.setup(
     name = "Tpteropy",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "Tomycat",
     author_email="tangminghong.tom@gmail.com",
     description="簡單存取Pterodactyl api",
